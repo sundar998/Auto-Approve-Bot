@@ -32,7 +32,7 @@ logout : logout your telegram account
 accept : accept all pending request form channel or group.
 ban - to ban a user.
 unban - to unban a user.
-banlist - to check banned users.
+banned - to check banned users.
 maintenance - Toggle maintenance mode
 broadcast - Broadcast Massage Send All Users In Bot.
 ```
