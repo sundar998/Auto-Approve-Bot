@@ -45,8 +45,8 @@ broadcast - Broadcast Massage Send All Users In Bot.
 - `BOT_TOKEN` - Get From [BotFather](https://youtu.be/aJILCCXfNVM)
  - `IS_FSUB` : True/False FSUB accordingly.
 - `FSUB_EXPIRE` : Your FSUB link expire time.
-- `AUTH_CHANNELS` : Your Public & Private FSUB channels ID.
-- `AUTH_REQ_CHANNELS` : Your Private Request FSUB channels ID.
+- `AUTH_CHANNELS` : Your Public & Private FSUB channels IDs.
+- `AUTH_REQ_CHANNELS` : Your Private Request FSUB channels IDs.
 - `LOG_CHANNEL` - Your log channel id.
 - `ADMIN` - bot owners Id.
 </details>
