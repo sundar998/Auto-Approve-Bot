@@ -14,7 +14,11 @@ class TechifyBots:
         return data.get("status", False) if data else False
 
     async def set_maintenance(self, status: bool):
-        await self.settings_col.update_one({"_id": "maintenance"}, {"$set": {"status": status}}, upsert=True)
+        await self.settings_col.update_one(
+            {"_id": "maintenance"},
+            {"$set": {"status": status}},
+            upsert=True
+        )
 
 tb = TechifyBots()
 
