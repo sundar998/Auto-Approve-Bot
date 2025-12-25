@@ -5,7 +5,7 @@ class text(object):
 
 𝖩𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗂𝗇 𝗒𝗈𝗎𝗋 𝖼𝗁𝖺𝗇𝗇𝖾𝗅𝗌 𝖺𝗇𝖽 𝗀𝗋𝗈𝗎𝗉𝗌 𝗐𝗂𝗍𝗁 𝗉𝖾𝗋𝗆𝗂𝗌𝗌𝗂𝗈𝗇 𝗍𝗈 𝖺𝖽𝖽 𝗇𝖾𝗐 𝗆𝖾𝗆𝖻𝖾𝗋𝗌.
 
-<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyBots'>ʀᴀʜᴜʟ</a></b></blockquote>"""
+<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/CallOwnerBot'>ʀᴀʜᴜʟ</a></b></blockquote>"""
 
     LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
@@ -39,4 +39,4 @@ class text(object):
 𝟑. 𝐇𝐨𝐰 𝐭𝐨 𝐜𝐚𝐧𝐜𝐞𝐥 𝐚 𝐩𝐫𝐨𝐜𝐞𝐬𝐬?
 ➥ 𝖴𝗌𝖾 /cancel 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗈 𝗌𝗍𝗈𝗉 𝖺𝗇𝗒 𝗈𝗇𝗀𝗈𝗂𝗇𝗀 𝗉𝗋𝗈𝖼𝖾𝗌𝗌.
 
-<b><blockquote>𝖲𝗍𝗂𝗅𝗅 𝗁𝖺𝗏𝖾 𝗂𝗌𝗌𝗎𝖾𝗌? 𝖴𝗌𝖾 /help</blockquote></b>"""
+<blockquote><b>𝖲𝗍𝗂𝗅𝗅 𝗁𝖺𝗏𝖾 𝗂𝗌𝗌𝗎𝖾𝗌? 𝖴𝗌𝖾 /help</b></blockquote>"""
