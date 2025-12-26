@@ -5,7 +5,7 @@ from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 from config import *
 import asyncio
 from Script import text
-from .db import tb
+from .database import tb
 
 @Client.on_message(filters.command("start"))
 async def start_cmd(client, message):
